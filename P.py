@@ -1,0 +1,10 @@
+import math
+cos= int(input("enter a number you want to cosine: "))
+ans1=math.cos(cos)
+print(ans1)
+sin=int(input("enter a number you want to sine: "))
+ans2=math.sin(sin)
+print(ans2)
+tan= int(input("enter a number you want to tangent: "))
+ans3=math.tan(tan)
+print(ans3)
